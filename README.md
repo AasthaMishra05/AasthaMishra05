@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AasthaMishra05 I am shit
+- 👋 Hi, I’m @AasthaMishra05
 - 👀 I’m interested in learning and implementing.
 - 🌱 I’m currently learning Deep Learning.
 - 🍁  Reasearch @Mitacs 🇨🇦
