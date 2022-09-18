@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AasthaMishra05
 - 👀 I’m interested in learning and implementing.
 - 🌱 I’m currently learning Deep Learning.
-- 🍁  Reasearch @Mitacs 🇨🇦
+- 🍁  Reasearch Intern @Mitacs 🇨🇦
 - 🤖 My research interests in Artificial Intelligence, NLP, Computer Vision and Machine Learning.
 - 📫 How to reach me - aasthamishra79736@gmail.com
 
